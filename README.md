@@ -7,24 +7,35 @@
 
 
 ## Brief Bio
+
 I am a senior at the i
 
 
-# 🌟 Meet Suvam Dey: A Rising Star in Electronics, Telecommunications, and Beyond! 🌟
+### 🌟 Meet Suvam Dey: A Rising Star in Electronics, Telecommunications, and Beyond! 🌟
 
-## 👨‍🎓 About Me:
+### 👨‍🎓 About Me:
+
+
 Hello, I'm Suvam Dey, a passionate researcher and lifelong learner currently on an exciting journey to pursue my PhD in the realm of Electronics and Telecommunications. Hailing from the esteemed Indian Institute of Engineering Science and Technology, Shibpur, I have embarked on a thrilling odyssey that blends technology, data, and artificial intelligence into a harmonious symphony of knowledge.
 
-## 🌍 My Current Adventure:
+### 🌍 My Current Adventure:
+
+
 As we speak, I am immersed in a stimulating research internship under the esteemed Mitacs Globalink Research Internship (GRI) program at the Université de Moncton in beautiful New Brunswick, Canada. This experience is shaping my perspective, igniting my curiosity, and reinforcing my belief that learning never ceases.
 
-## 💡 My Passion:
+### 💡 My Passion:
+
+
 My academic journey may officially center around Electronics and Telecommunications, but my heart belongs to the captivating world of Machine Learning. I may call it a hobby, but it's also a fervent passion that I diligently cultivate with every project and challenge I undertake. I am continually pushing my boundaries to expand my ML expertise, and the journey has just begun.
 
-## 🌟 Previous Milestones:
+### 🌟 Previous Milestones:
+
+
 Before this Canadian adventure, I had the privilege of gaining invaluable research experience at two prestigious institutions. A research internship at the University of Moncton, New Brunswick, prepared me for the international stage, while my time at the Indian Institute of Science (IISc), Bengaluru, honed my skills and deepened my love for research.
 
-## 🔬 My Research Interests:
+### 🔬 My Research Interests:
+
+
 I am a firm believer that technology can be a force for good, and my research interests reflect this philosophy. I am deeply intrigued by biomedical signal processing, where the fusion of data science, artificial intelligence, and cutting-edge technology can revolutionize healthcare. Beyond this, I remain open to exploring new avenues and expanding my horizons.
 <br>
 
