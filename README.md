@@ -1,5 +1,5 @@
 # Welcome to my page
-![SUVAM_DP](https://github.com/YedMavus/YedMavus.github.io/assets/73331166/5b7938ed-2917-47af-872f-106305909e4d){:width="40px"}
+![SUVAM_DP](https://github.com/YedMavus/YedMavus.github.io/assets/73331166/5b7938ed-2917-47af-872f-106305909e4d){:width="120px"}
 
 ### I am Suvam Dey
 
