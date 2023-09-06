@@ -1,5 +1,5 @@
 # Welcome to my page
-![SUVAM_DP](https://github.com/YedMavus/YedMavus.github.io/assets/73331166/5b7938ed-2917-47af-872f-106305909e4d  | width=100)
+![SUVAM_DP](https://github.com/YedMavus/YedMavus.github.io/assets/73331166/5b7938ed-2917-47af-872f-106305909e4d){:width="40px"}
 
 ### I am Suvam Dey
 
@@ -31,7 +31,7 @@ My academic journey may officially center around Electronics and Telecommunicati
 
 ### 🌟 Previous Milestones:
 
-![IMG_0842](https://github.com/YedMavus/YedMavus.github.io/assets/73331166/cbd6cbf7-f80e-4ffd-9b3d-9db61b3d82ca  | width=500)
+![IMG_0842](https://github.com/YedMavus/YedMavus.github.io/assets/73331166/cbd6cbf7-f80e-4ffd-9b3d-9db61b3d82ca){:width="400px"}
 
 
 Before this Canadian adventure, I had the privilege of gaining invaluable research experience at two prestigious institutions. A research internship at the University of Moncton, New Brunswick, prepared me for the international stage, while my time at the Indian Institute of Science (IISc), Bengaluru, honed my skills and deepened my love for research.
