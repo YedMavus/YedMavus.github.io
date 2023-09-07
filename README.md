@@ -51,7 +51,7 @@ I am a firm believer that technology can be a force for good, and my research in
 ## Publications
 
 
-https://ieeexplore.ieee.org/abstract/document/10234767
+
 [*Differential effects of slow deep inhalation and exhalation on brain functional connectivity*](https://ieeexplore.ieee.org/abstract/document/10234767)
 Suvam Dey; A. S. Anusha; A. G. Ramakrishnan
 in IEEE International Conference on Electronics, Computing and Communication Technologies (CONECCT),
