@@ -48,14 +48,12 @@ I was selected as a Mitacs Globalink Research Intern in 2023 and worked at Dépa
 Before interning abroad, I worked at Medical Intelligence and Language Engineering (MILE) lab, at the Department of Electrical Engineering, IISc, Bengaluru, where I was selected as an Indian Academy of Science Summer Research Fellow. I was mentored and supervised by Professor A. G. Ramakrishnan with guidance from Anusha A. S., post doctoral student at the lab. This led us to the path of electroencephalography and neuroscience - exploring the Differential effects of slow deep inhalation and exhalation on brain functional connectivity. Results of our work was selected to be presented at the IEEE CONECCT, 2023 conference where the paper was awarded the best paper award for the track.
 
 
-**Misc.**
+### **Misc.**
 I ranked within the top 1.4% of all the aspirants in the engineering entrance examination of India - the JEE Mains with a similar result in JEE Advanced. In the junior year of highschool, I was awarded the JBNSTS Scholarship after a written test and interview testing for scientific knowledge and thinking at that level among about 40000 students of my state (West Bengal). Only 200 students were selected. In the same year, my essay on Problems and Solutions to Science Education was selected for presentation at SN Bose Center for Basic Sciences, Kolkata.
 
-**Music**
+### **Music**
 
 I have completed grade 3 certification of Electronic Keyboard and Organ by the Trinity College, London and can play the piano, harmonica and electronic keyboard.
-
-
 
 
 ## Publications
