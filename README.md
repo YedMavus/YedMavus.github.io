@@ -9,7 +9,7 @@
 My academic journey may officially center around Electronics and Telecommunications, but my heart belongs to the captivating world of Biomedical Signal Processing using machine learning. I may call it a hobby, but it's also a fervent passion that I diligently cultivate with every project and opportunity I undertake. Corresponding to machine learning, I am also captivated by neuroscience and how the brain works. My research goal is applying machine learning principles to enhance our understanding in biology,
 and especially the brain. I am continually pushing my boundaries to expand my ML expertise, and the journey has just begun. 
 
-Beyond my passion for machine learning and the brain, I am a photographer, and I like to capture the different looks of nature. Check out my snaps [here]{https://www.flickr.com/photos/yedmavus/}. You may also find me trying out Pink Floyd or Radiohead songs on the piano or humming my own tunes. 
+Beyond my passion for machine learning and the brain, I am a photographer, and I like to capture the different looks of nature. Check out my snaps [here](https://www.flickr.com/photos/yedmavus/). You may also find me trying out Pink Floyd or Radiohead songs on the piano or humming my own tunes. 
 
 
 ## About Me
@@ -21,8 +21,7 @@ I'm a passionate researcher and lifelong learner currently on an exciting journe
 
 
 
-### 🔬 ![image](https://github.com/YedMavus/YedMavus.github.io/assets/73331166/28be204b-1fc9-492d-8d03-b15a1fc5f413)
- My Research Interests:
+### 🔬 My Research Interests:
 
 
 I am a firm believer that technology can be a force for good, and my research interests reflect this philosophy. I am deeply intrigued by biomedical signal processing, where the fusion of data science, artificial intelligence, and cutting-edge technology can revolutionize healthcare. Beyond this, I remain open to exploring new avenues and expanding my horizons.  My introduction to the subject of brain research is intertwined with memories of my grandmother’s stroke back
@@ -35,7 +34,8 @@ to these ever frequent problems.
 
 ### 🌟 Previous Milestones:
 
-** MITACS GRI **
+**MITACS GRI**
+
 ![IMG_0842](https://github.com/YedMavus/YedMavus.github.io/assets/73331166/cbd6cbf7-f80e-4ffd-9b3d-9db61b3d82ca){:width="400px"}
 
 I was selected as a Mitacs Globalink Research Intern in 2023 and worked at Département d'Informatique, Universite de Moncton, Canada. I was advised by Professor Jalal Almhana, working on Subject Identification using Wearable Sensors utilizing gestures and movement inherent in people for classification. This also prepared me for the international stage, learning a lot about myself and how to live and manage your passion by yourself.
@@ -53,7 +53,7 @@ I ranked within the top 1.4% of all the aspirants in the engineering entrance ex
 
 **Music**
 
-I have completed grade 3 certification of Electronic Keyboard and Organ by the Trinity College, London.
+I have completed grade 3 certification of Electronic Keyboard and Organ by the Trinity College, London and can play the piano, harmonica and electronic keyboard.
 
 
 
@@ -85,5 +85,5 @@ in IEEE International Conference on Electronics, Computing and Communication Tec
 
 ## Contact Information
 
-Email: suvamdey2002@gmail.com
+Email: suvamdey2002@gmail.com, 2020etb052.suvam@students.iiests.ac.in
 
