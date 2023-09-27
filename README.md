@@ -1,28 +1,25 @@
-# Welcome to my page
+# Welcome to Suvam's Page
+
 ![SUVAM_DP](https://github.com/YedMavus/YedMavus.github.io/assets/73331166/5b7938ed-2917-47af-872f-106305909e4d){:width="120px"}
 
-### I am Suvam Dey
 
 
+## About Me
+
+I am on my way to complete my Bachelars of Technology undergraduate course from the Department of Electronics and Telecommunications, IIEST, Shibpur. 
 
 
+I'm a passionate researcher and lifelong learner currently on an exciting journey to pursue my PhD in the realm of Computer Science. Hailing from the esteemed Indian Institute of Engineering Science and Technology, Shibpur (teh erstwhile BE College), I have embarked on a thrilling odyssey that blends technology, data, neuroscience and artificial intelligence into a harmonious symphony of knowledge.
 
-## Brief Bio
+I was selected as a Mitacs Globalink Research Intern in 2023 and worked at Département d'Informatique, Universite de Moncton, Canada. I was advised by Professor Jalal Almhana, working on Subject Identification using Wearable Sensors utilizing gestures and movement inherent in people for classification. 
 
-I am a senior at the i
+Before interning abroad, I worked at MIedical Intelligence and Language Engineering (MILE) lab, at the Department of Electrical Engineering, IISc, Bengaluru, where I was selected as an Indian Academy of Science Summer Research Fellow. I was mentored and supervised by Professor A. G. Ramakrishnan with guidance from Anusha A. S., post doctoral student at the lab. This led us to the path of electroencephalography and neuroscience - exploring the Differential effects of slow deep inhalation and exhalation on brain functional connectivity. Results of our work was selected to be presented at the IEEE CONECCT, 2023 conference where the paper was awarded the best paper award for the track.
 
-
-### 🌟 Meet Suvam Dey: A Rising Star in Electronics, Telecommunications, and Beyond! 🌟
-
-### 👨‍🎓 About Me:
+### 🔬 My Research Interests:
 
 
-Hello, I'm Suvam Dey, a passionate researcher and lifelong learner currently on an exciting journey to pursue my PhD in the realm of Electronics and Telecommunications. Hailing from the esteemed Indian Institute of Engineering Science and Technology, Shibpur, I have embarked on a thrilling odyssey that blends technology, data, and artificial intelligence into a harmonious symphony of knowledge.
-
-### 🌍 My Current Adventure:
-
-
-As we speak, I am immersed in a stimulating research internship under the esteemed Mitacs Globalink Research Internship (GRI) program at the Université de Moncton in beautiful New Brunswick, Canada. This experience is shaping my perspective, igniting my curiosity, and reinforcing my belief that learning never ceases.
+I am a firm believer that technology can be a force for good, and my research interests reflect this philosophy. I am deeply intrigued by biomedical signal processing, where the fusion of data science, artificial intelligence, and cutting-edge technology can revolutionize healthcare. Beyond this, I remain open to exploring new avenues and expanding my horizons.
+<br>
 
 ### 💡 My Passion:
 
@@ -36,18 +33,24 @@ My academic journey may officially center around Electronics and Telecommunicati
 
 Before this Canadian adventure, I had the privilege of gaining invaluable research experience at two prestigious institutions. A research internship at the University of Moncton, New Brunswick, prepared me for the international stage, while my time at the Indian Institute of Science (IISc), Bengaluru, honed my skills and deepened my love for research.
 
-### 🔬 My Research Interests:
+
+JEE Mains and Advanced
 
 
-I am a firm believer that technology can be a force for good, and my research interests reflect this philosophy. I am deeply intrigued by biomedical signal processing, where the fusion of data science, artificial intelligence, and cutting-edge technology can revolutionize healthcare. Beyond this, I remain open to exploring new avenues and expanding my horizons.
-<br>
+JBNSTS
+
+
 
 
 ## Education
 
-
+**Bachelors of Technology:** Electronis and Telecommunications (CGPA upto 6th Semester: 9.06)
+Courses to be mentioned:
+ - 
 
 <br>
+
+
 ## Publications
 
 
