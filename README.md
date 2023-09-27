@@ -13,9 +13,10 @@ I'm a passionate researcher and lifelong learner currently on an exciting journe
 
 I was selected as a Mitacs Globalink Research Intern in 2023 and worked at Département d'Informatique, Universite de Moncton, Canada. I was advised by Professor Jalal Almhana, working on Subject Identification using Wearable Sensors utilizing gestures and movement inherent in people for classification. 
 
-Before interning abroad, I worked at MIedical Intelligence and Language Engineering (MILE) lab, at the Department of Electrical Engineering, IISc, Bengaluru, where I was selected as an Indian Academy of Science Summer Research Fellow. I was mentored and supervised by Professor A. G. Ramakrishnan with guidance from Anusha A. S., post doctoral student at the lab. This led us to the path of electroencephalography and neuroscience - exploring the Differential effects of slow deep inhalation and exhalation on brain functional connectivity. Results of our work was selected to be presented at the IEEE CONECCT, 2023 conference where the paper was awarded the best paper award for the track.
+Before interning abroad, I worked at Medical Intelligence and Language Engineering (MILE) lab, at the Department of Electrical Engineering, IISc, Bengaluru, where I was selected as an Indian Academy of Science Summer Research Fellow. I was mentored and supervised by Professor A. G. Ramakrishnan with guidance from Anusha A. S., post doctoral student at the lab. This led us to the path of electroencephalography and neuroscience - exploring the Differential effects of slow deep inhalation and exhalation on brain functional connectivity. Results of our work was selected to be presented at the IEEE CONECCT, 2023 conference where the paper was awarded the best paper award for the track.
 
-### 🔬 My Research Interests:
+### 🔬 ![image](https://github.com/YedMavus/YedMavus.github.io/assets/73331166/28be204b-1fc9-492d-8d03-b15a1fc5f413)
+ My Research Interests:
 
 
 I am a firm believer that technology can be a force for good, and my research interests reflect this philosophy. I am deeply intrigued by biomedical signal processing, where the fusion of data science, artificial intelligence, and cutting-edge technology can revolutionize healthcare. Beyond this, I remain open to exploring new avenues and expanding my horizons.
