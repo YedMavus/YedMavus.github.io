@@ -31,6 +31,23 @@ brain diseases, and still motivates me to further understand and propose solutio
 to these ever frequent problems.
 <br>
 
+## Publications
+
+
+
+[*Differential effects of slow deep inhalation and exhalation on brain functional connectivity*](https://ieeexplore.ieee.org/abstract/document/10234767)
+Suvam Dey; A. S. Anusha; A. G. Ramakrishnan
+in IEEE International Conference on Electronics, Computing and Communication Technologies (CONECCT),
+2023
+<details>
+  <summary> Summary </summary>
+  This work utilizes electroencephalography (EEG) to identify functional connections specific to the inhalation and exhalation phases of slow deep breathing at 2 cycles per minute.
+  We study the effects of breathing on human brain connnectome, especially in the context of functional connectivity.
+</details>
+
+
+<br>
+
 
 ### 🌟 Previous Milestones:
 
@@ -55,23 +72,6 @@ I ranked within the top 1.4% of all the aspirants in the engineering entrance ex
 
 I have completed grade 3 certification of Electronic Keyboard and Organ by the Trinity College, London and can play the piano, harmonica and electronic keyboard.
 
-
-## Publications
-
-
-
-[*Differential effects of slow deep inhalation and exhalation on brain functional connectivity*](https://ieeexplore.ieee.org/abstract/document/10234767)
-Suvam Dey; A. S. Anusha; A. G. Ramakrishnan
-in IEEE International Conference on Electronics, Computing and Communication Technologies (CONECCT),
-2023
-<details>
-  <summary> Summary </summary>
-  This work utilizes electroencephalography (EEG) to identify functional connections specific to the inhalation and exhalation phases of slow deep breathing at 2 cycles per minute.
-  We study the effects of breathing on human brain connnectome, especially in the context of functional connectivity.
-</details>
-
-
-<br>
 
 
 ## Voluntary Service
