@@ -17,7 +17,7 @@ Beyond my passion for machine learning and the brain, I am a photographer, and I
 I am on my way to complete my Bachelors of Technology undergraduate course from the Department of Electronics and Telecommunications, IIEST, Shibpur, with my current GPA of 9.06/10 and a class rank of 5.
 
 
-I'm a passionate researcher and lifelong learner currently on an exciting journey to pursue my PhD in the realm of Computer Science. Hailing from the esteemed Indian Institute of Engineering Science and Technology (IIEST), Shibpur (erstwhile BE College), I have embarked on a thrilling odyssey that blends technology, data, neuroscience and artificial intelligence into a harmonious symphony of knowledge. I have tried to make the best use of the research opportunities I've come across and my curiosity and zeal to learn something new gets me going. You can look at my CV [here].
+I'm a passionate researcher and lifelong learner currently on an exciting journey to pursue my PhD in the realm of Computer Science. Hailing from the esteemed Indian Institute of Engineering Science and Technology (IIEST), Shibpur (erstwhile BE College), I have embarked on a thrilling odyssey that blends technology, data, neuroscience and artificial intelligence into a harmonious symphony of knowledge. I have tried to make the best use of the research opportunities I've come across and my curiosity and zeal to learn something new gets me going. You can look at my CV [here](https://github.com/YedMavus/YedMavus.github.io/files/12753488/Suvam_Dey_CV_Long.pdf).
 
 
 
