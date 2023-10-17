@@ -18,7 +18,7 @@ I am on my way to complete my Bachelors of Technology undergraduate course from 
 
 
 I'm a passionate researcher and lifelong learner currently on an exciting journey to pursue my PhD in the realm of Computer Science. Hailing from the esteemed Indian Institute of Engineering Science and Technology (IIEST), Shibpur (erstwhile BE College), I have embarked on a thrilling odyssey that blends technology, data, neuroscience and artificial intelligence into a harmonious symphony of knowledge. I have tried to make the best use of the research opportunities I've come across and my curiosity and zeal to learn something new gets me going. You can look at my CV [here](https://github.com/YedMavus/YedMavus.github.io/files/12753488/Suvam_Dey_CV_Long.pdf).
-
+I recently gave the GRE, scoring 325 (167 in quant and 158 in verbal).
 
 
 ### 🔬 My Research Interests:
@@ -66,8 +66,13 @@ Before interning abroad, I worked at Medical Intelligence and Language Engineeri
 
 
 ### **Misc. Achievements**
+
 My GRE 2023 score is 325 (167 Quant, 158 Verbal)
+
+
 TOEFL test scores are awaited.
+
+
 I ranked within the top 1.4% of all the aspirants in the engineering entrance examination of India - the JEE Mains with a similar result in JEE Advanced. In the junior year of highschool, I was awarded the JBNSTS Scholarship after a written test and interview testing for scientific knowledge and thinking at that level among about 40000 students of my state (West Bengal). Only 200 students were selected. In the same year, my essay on Problems and Solutions to Science Education was selected for presentation at SN Bose Center for Basic Sciences, Kolkata.
 
 ### **Music**
