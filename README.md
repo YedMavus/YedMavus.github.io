@@ -66,6 +66,8 @@ Before interning abroad, I worked at Medical Intelligence and Language Engineeri
 
 
 ### **Misc. Achievements**
+My GRE 2023 score is 325 (167 Quant, 158 Verbal)
+TOEFL test scores are awaited.
 I ranked within the top 1.4% of all the aspirants in the engineering entrance examination of India - the JEE Mains with a similar result in JEE Advanced. In the junior year of highschool, I was awarded the JBNSTS Scholarship after a written test and interview testing for scientific knowledge and thinking at that level among about 40000 students of my state (West Bengal). Only 200 students were selected. In the same year, my essay on Problems and Solutions to Science Education was selected for presentation at SN Bose Center for Basic Sciences, Kolkata.
 
 ### **Music**
