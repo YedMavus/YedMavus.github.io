@@ -92,3 +92,5 @@ I have completed grade 3 certification of Electronic Keyboard and Organ by the T
 
 Email: suvamdey2002@gmail.com, 2020etb052.suvam@students.iiests.ac.in
 
+![Visitor Count](https://profile-counter.glitch.me/suvam_me/count.svg)
+
