@@ -99,7 +99,7 @@ Here is a demo.
 
 ### Snake Game from 2005
 
-Recreated the famous sake game of the featurephone era on python. Check out my full code to play on my repository [snake](https://github.com/YedMavus/snake).
+Recreated the famous snake game of the featurephone era on python. Check out my full code to play on my repository [snake](https://github.com/YedMavus/snake).
 
 Here is a demo.
 
