@@ -87,6 +87,23 @@ I have completed grade 3 certification of Electronic Keyboard and Organ by the T
 - Member of Lion's Club, Kolkata
 <br>
 
+## Projects for Fun
+
+### Eye Blink Chrome Dino
+
+I created a script to control the chrome no internet dino handsfree, by detecting eye blinks. The full code can be found on my repository [Blink_Dino]{https://github.com/YedMavus/Blink_Dino}.
+Here is a demo.
+![Eye_Blink_Working](https://github.com/YedMavus/YedMavus.github.io/assets/73331166/99c624dd-64d2-45cb-ae56-1ab93d7ffae7)
+
+
+
+### Snake Game from 2005
+
+Recreated the famous sake game of the featurephone era on python. Check out my full code to play on my repository [snake]{https://github.com/YedMavus/snake}.
+
+Here is a demo.
+
+
 ## Contact Information
 
 Email: suvamdey2002@gmail.com, 2020etb052.suvam@students.iiests.ac.in
