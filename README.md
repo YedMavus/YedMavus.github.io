@@ -69,6 +69,8 @@ Before interning abroad, I worked at Medical Intelligence and Language Engineeri
 ### **Misc. Achievements**
 
 My GRE 2023 score is 325 (167 Quant, 158 Verbal). In TOEFL (iBT) I scored 115/120.
+In GATE 2023 Electronics, I secured a rank of 1254
+In GATE 2024 Data Science and Aritificial Intelligence, I secured a rank of 204
 
 
 
