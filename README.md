@@ -112,7 +112,10 @@ Here is a demo.
 
 ## Contact Information
 
-Email: suvamdey2002@gmail.com, 2020etb052.suvam@students.iiests.ac.in
+
+
+Email: ![image](https://github.com/YedMavus/YedMavus.github.io/assets/73331166/76d9c30b-b232-43e2-8866-82a5c38c587a)
+
 
 ![Visitor Count](https://profile-counter.glitch.me/suvam_me/count.svg)
 
